@@ -27,9 +27,9 @@ How I approach a weekly player-behaviour review for an online casino / betting p
 from defining the metrics that answer a business question, through data collection and
 validation, to a Power BI dashboard with conclusions and recommendations.
 
-![iGaming Data Analyst workflow](docs/workflow_en.png)
+![iGaming Data Analyst workflow](workflow_en.png)
 
-📄 [Download as PDF](docs/iGaming_Analyst_Workflow_EN.pdf)
+📄 [Download as PDF](iGaming_Analyst_Workflow_EN.pdf)
 
 ### The process in short
 
