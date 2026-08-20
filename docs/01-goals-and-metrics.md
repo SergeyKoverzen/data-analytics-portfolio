@@ -5,7 +5,7 @@
 Turning a business request into a question data can actually answer: fixing the KPI set,
 the segments and the comparison period **before** a single query is written.
 
-![Goals and metrics workflow](docs/goals_metrics_p1.png)
+![Goals and metrics workflow](goals_metrics_p1.png)
 
 ## The part that makes the difference
 
@@ -22,7 +22,7 @@ for a chart, not for analysis.
 
 ## Definitions — where iGaming metrics quietly disagree
 
-![Metric definitions and comparison periods](docs/goals_metrics_p2.png)
+![Metric definitions and comparison periods](goals_metrics_p2.png)
 
 Most reporting disputes are not calculation errors. Two teams simply used two different
 definitions. These are pinned down in writing before extraction:
@@ -60,7 +60,7 @@ A one-page brief, agreed in writing before extraction begins:
 This brief is the reference every later number is checked against — which is what makes
 the results defensible when someone disagrees with them three weeks later.
 
-📄 [Download this section as PDF](docs/iGaming_Goals_and_Metrics_EN.pdf)
+📄 [Download this section as PDF](iGaming_Goals_and_Metrics_EN.pdf)
 
 ---
 
