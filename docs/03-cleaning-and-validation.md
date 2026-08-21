@@ -1,4 +1,4 @@
-[← Back to portfolio](../README.md) · Step 3 of 6 · [Next: Analysis →](04-analysis.md)
+[← Back to portfolio](../README.md) · [← Previous: Data Collection](03-cleaning-and-validation.md) · Step 3 of 6 · [Next: Analysis →](04-analysis.md)
 
 # 3. Cleaning & Validation
 
@@ -59,4 +59,4 @@ Stakeholders see not only the numbers, but how far they can be trusted.
 
 ---
 
-[← Back to portfolio](../README.md) · [Next: Analysis →](04-analysis.md)
+[← Back to portfolio](../README.md) · [← Previous: Data Collection](03-cleaning-and-validation.md) · Step 3 of 6 · [Next: Analysis →](04-analysis.md)
