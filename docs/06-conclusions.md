@@ -1,4 +1,4 @@
-[← Back to portfolio](../README.md) · Step 6 of 6 · [Back to step 1 →](01-goals-and-metrics.md)
+[← Back to portfolio](../README.md) · [← Previous: Visualisation](05-visualisation.md) · Step 6 of 6 · [Back to step 1 →](01-goals-and-metrics.md)
 
 # 6. Conclusions
 
@@ -63,4 +63,4 @@ new finding.
 
 ---
 
-[← Back to portfolio](../README.md) · [Back to step 1 →](01-goals-and-metrics.md)
+[← Back to portfolio](../README.md) · [← Previous: Visualisation](05-visualisation.md) · Step 6 of 6 · [Back to step 1 →](01-goals-and-metrics.md)
