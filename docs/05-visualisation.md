@@ -1,4 +1,4 @@
-[← Back to portfolio](../README.md) · Step 5 of 6 · [Next: Conclusions →](06-conclusions.md)
+[← Back to portfolio](../README.md) · [← Previous: Analysis](04-analysis.md) · Step 5 of 6 · [Next: Conclusions →](06-conclusions.md)
 
 # 5. Visualisation
 
@@ -63,4 +63,4 @@ onboard without a meeting.
 
 ---
 
-[← Back to portfolio](../README.md) · [Next: Conclusions →](06-conclusions.md)
+[← Back to portfolio](../README.md) · [← Previous: Analysis](04-analysis.md) · Step 5 of 6 · [Next: Conclusions →](06-conclusions.md)
