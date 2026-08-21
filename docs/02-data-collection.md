@@ -1,4 +1,4 @@
-[← Back to portfolio](../README.md) · [← Previous](01-goals-and-metrics.md) · Step 2 of 6 · [Next: Cleaning & Validation →](03-cleaning-and-validation.md)
+[← Back to portfolio](../README.md) · [← Previous: Goals & Metrics](01-goals-and-metrics.md) · Step 2 of 6 · [Next: Cleaning & Validation →](03-cleaning-and-validation.md)
 
 # 2. Data Collection — from ad click to first deposit
 
@@ -54,4 +54,4 @@ fraud flags.
 
 ---
 
-[← Back to portfolio](../README.md) · [Next: Cleaning & Validation →](03-cleaning-and-validation.md)
+[← Back to portfolio](../README.md) · [← Previous: Goals & Metrics](01-goals-and-metrics.md) · [Next: Cleaning & Validation →](03-cleaning-and-validation.md)
