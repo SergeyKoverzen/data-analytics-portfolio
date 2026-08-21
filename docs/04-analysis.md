@@ -1,4 +1,4 @@
-[← Back to portfolio](../README.md) · Step 4 of 6 · [Next: Visualisation →](05-visualisation.md)
+[← Back to portfolio](../README.md) · [← Previous: Cleaning & Validation](03-cleaning-and-validation.md) · Step 4 of 6 · [Next: Visualisation →](05-visualisation.md)
 
 # 4. Analysis
 
@@ -60,4 +60,4 @@ exact filters behind every figure, so the analysis can be reproduced.
 
 ---
 
-[← Back to portfolio](../README.md) · [Next: Visualisation →](05-visualisation.md)
+[← Back to portfolio](../README.md) · [← Previous: Cleaning & Validation](03-cleaning-and-validation.md) · Step 4 of 6 · [Next: Visualisation →](05-visualisation.md)
