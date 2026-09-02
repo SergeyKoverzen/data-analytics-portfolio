@@ -65,7 +65,7 @@ Data sourced from Dune Analytics (dex.trades table), aggregated via SQL, exporte
 
 📄 [Download PROJECT №1 "Dashboard Top Trades"as PDF](docs/Top_Trades.pdf)
 
-*(My other projects will appear here soon.)*
+(My other projects will appear here soon.)
 
 ---
 
