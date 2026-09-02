@@ -57,6 +57,10 @@ Each step has its own page with a detailed diagram and notes — see the **Detai
 
 ## Projects
 
+№1. " WEB_3 Project "
+Data sourced from Dune Analytics (dex.trades table), aggregated via SQL, exported and loaded into PostgreSQL for further analysis
+📄 [Download PROJECT №1 as PDF](Top Trades.pdf)
+
 *(my project folders will be here — one line per project with a short description and a link)*
 
 ---
