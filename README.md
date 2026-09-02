@@ -1,7 +1,13 @@
 # data-analytics-portfolio
 
-Hi! I'm a SQL Data / Product Analyst with 4+ years of experience, focused on
-**iGaming and fintech analytics**.
+Hi! I'm a SQL Data / Product Analyst with 4+ years of experience, 
+focused  primarily in finance and iGaming/betting analytics, where speed and accuracy directly affect revenue. 
+
+Currently expanding into **Web3/crypto/GameFi analytics**, since the methodology 
+I use daily — transactional data, player/user behavior, retention and monetization metrics — transfers almost 1:1 to on-chain data.
+
+
+Data Analyst with 4+ years of freelance experience turning raw, messy data into decisions — primarily in finance and iGaming/betting analytics, where speed and accuracy directly affect revenue. Currently expanding into Web3/crypto/GameFi analytics, since the methodology I use daily — transactional data, player/user behavior, retention and monetization metrics — transfers almost 1:1 to on-chain data.
 
 This repository contains examples of my work in:
 
