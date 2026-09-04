@@ -79,7 +79,7 @@ On-chain analysis of 500 Ethereum staking addresses (Lido, 90-day window), explo
 
 Pipeline: Dune Analytics (SQL) → PostgreSQL (staging table + SQL views) → Power BI (5-page dashboard)
 
-📄 [Download PROJECT №2 "Ethereum Staking Behavior Analysis_Build_Process" as PDF](docs/Behavior_Analysis_Build_Process.pdf)
+📄 [Download PROJECT №2 "Ethereum Staking Behavior Analysis_Build_Process" as PDF](docs/Ethereum_Staking_Behavior_Analysis.pdf)
 
 📄 [Download PROJECT №1 "Dashboard Ethereum Staking Behavior Analysis"as PDF](docs/Ethereum_Staking_Behavior_Analysis.pdf)
 
