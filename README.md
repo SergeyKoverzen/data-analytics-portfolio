@@ -69,7 +69,7 @@ On-chain analysis of 500 DEX trader addresses (Ethereum, 90-day window), explori
 
 Pipeline: Dune Analytics (SQL) → PostgreSQL (staging table + SQL views) → Power BI (3-page dashboard)
 
-📄 [Download PROJECT №1 "DEX_Analytics_Build_Process" as PDF](docs/DEX_Analytics_Build_Process_01092026.pdf)
+📄 [Download PROJECT №1 "DEX Analytics Build Process" as PDF](docs/DEX_Analytics_Build_Process_01092026.pdf)
 
 📄 [Download PROJECT №1 "Dashboard of Trader Behavior"as PDF](docs/Top_Trades.pdf)
 
@@ -79,9 +79,9 @@ On-chain analysis of 500 Ethereum staking addresses (Lido, 90-day window), explo
 
 Pipeline: Dune Analytics (SQL) → PostgreSQL (staging table + SQL views) → Power BI (5-page dashboard)
 
-📄 [Download PROJECT №2 "Ethereum Staking Behavior Analysis_Build_Process" as PDF](docs/Ethereum_Staking_Behavior_Analysis.pdf)
+📄 [Download PROJECT №2 "Ethereum Staking Behavior Build Process" as PDF](docs/Behavior_Analysis_Build_Process.pdf)
 
-📄 [Download PROJECT №1 "Dashboard Ethereum Staking Behavior Analysis"as PDF](docs/Ethereum_Staking_Behavior_Analysis.pdf)
+📄 [Download PROJECT №2 "Dashboard Ethereum Staking Behavior Analysis"as PDF](docs/Ethereum_Staking_Behavior_Analysis.pdf)
 
 (My other projects will appear here soon.)
 
