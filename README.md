@@ -59,15 +59,29 @@ Each step has its own page with a detailed diagram and notes — see the **Detai
 
 ---
 
-## Projects
+## Projects and On-Chain Analytics Portfolio
 
-№1. " DEX Trading Analysis from 01.09.2026"
+## 1. DEX Trading Analytics from 01.09.2026
 
-Data sourced from Dune Analytics (dex.trades table), aggregated via SQL, exported and loaded into PostgreSQL for further analysis
+DEX Trading Analytics: Trader Behavior & Volume Concentration
+
+On-chain analysis of 500 DEX trader addresses (Ethereum, 90-day window), exploring trading frequency, volume concentration, and cohort retention patterns in raw blockchain transaction data.
+
+Pipeline: Dune Analytics (SQL) → PostgreSQL (staging table + SQL views) → Power BI (3-page dashboard)
 
 📄 [Download PROJECT №1 "DEX_Analytics_Build_Process" as PDF](docs/DEX_Analytics_Build_Process_01092026.pdf)
 
-📄 [Download PROJECT №1 "Dashboard Top Trades"as PDF](docs/Top_Trades.pdf)
+📄 [Download PROJECT №1 "Dashboard of Trader Behavior"as PDF](docs/Top_Trades.pdf)
+
+## 2. Ethereum Staking Behavior Analysis from 02.09.2026
+
+On-chain analysis of 500 Ethereum staking addresses (Lido, 90-day window), exploring what drives long-term staker engagement beyond simple deposit size.
+
+Pipeline: Dune Analytics (SQL) → PostgreSQL (staging table + SQL views) → Power BI (5-page dashboard)
+
+📄 [Download PROJECT №2 "Ethereum Staking Behavior Analysis_Build_Process" as PDF](docs/Ethereum Staking Behavior Analysis_Build_Process.pdf)
+
+📄 [Download PROJECT №1 "Dashboard Ethereum Staking Behavior Analysis"as PDF](docs/Ethereum_Staking_Behavior_Analysis.pdf)
 
 (My other projects will appear here soon.)
 
