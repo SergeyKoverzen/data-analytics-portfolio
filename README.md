@@ -99,7 +99,7 @@ across three public companies — built around a deliberate staging → wide →
 
 Stack: SEC EDGAR API · Python · PostgreSQL · SQL · Power BI
 
-[View Project → ]()
+[View Project → ](https://github.com/SergeyKoverzen/financial-bi-analysis)
 
 ---
 
