@@ -62,6 +62,8 @@ Each step has its own page with a detailed diagram and notes — see the **Detai
 
 ## Projects and On-Chain Analytics Portfolio
 
+---
+
 ## 1. DEX Trading Analytics from 01.09.2026
 
 DEX Trading Analytics: Trader Behavior & Volume Concentration
@@ -74,6 +76,8 @@ Pipeline: Dune Analytics (SQL) → PostgreSQL (staging table + SQL views) → Po
 
 📄 [Download PROJECT №1 "Dashboard of Trader Behavior"as PDF](docs/Top_Trades.pdf)
 
+---
+
 ## 2. Ethereum Staking Behavior Analysis from 02.09.2026
 
 On-chain analysis of 500 Ethereum staking addresses (Lido, 90-day window), exploring what drives long-term staker engagement beyond simple deposit size.
@@ -84,7 +88,9 @@ Pipeline: Dune Analytics (SQL) → PostgreSQL (staging table + SQL views) → Po
 
 📄 [Download PROJECT №2 "Dashboard Ethereum Staking Behavior Analysis"as PDF](docs/Ethereum_Staking_Behavior_Analysis.pdf)
 
-## 3.Financial BI Analysis — Apple, Microsoft & Amazon
+---
+
+## 3. Financial BI Analysis — Apple, Microsoft & Amazon from 01.10.2026
 
 Real public financial data (SEC EDGAR / XBRL) → Python → PostgreSQL → layered SQL analytical views → Power BI.
 
