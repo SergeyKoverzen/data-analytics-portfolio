@@ -1,27 +1,28 @@
 # data-analytics-portfolio
 
-Hi! I'm a SQL Data / Product Analyst with 4+ years of experience, 
-focused  primarily in finance and iGaming/betting analytics, where speed and accuracy directly affect revenue. 
+Hi, I'm Sergey Koverzen👋
 
-Currently expanding into **Web3/crypto/GameFi analytics**, since the methodology 
-I use daily — transactional data, player/user behavior, retention and monetization metrics — transfers almost 1:1 to on-chain data.
+## Data Analyst → Analytics Engineer
 
+I build end-to-end data pipelines and BI solutions — from raw API/transactional data to clean SQL models and interactive Power BI dashboards.
 
-This repository contains examples of my work in:
+4+ years of experience in finance and iGaming/betting analytics, where speed and accuracy directly affect revenue. My background in financial accounting 
+gives me strong domain knowledge of financial data on top of the technical stack below — currently extending that into analytics engineering: 
+data modeling, layered SQL pipelines, and automated ingestion, not just dashboard-building.
 
-- Product analytics
-- Funnel and cohort analysis
-- KPI design
-- Data validation
-- Business-focused insights
+## Tech Stack
 
-## Tools
+Data: SQL (PostgreSQL, SQLite, MySQL), Python (Pandas), Excel, Google Sheets
 
-- SQL (PostgreSQL, SQLite, MySQL)
-- Power BI (DAX, Power Query)
-- Python (Pandas)
-- Excel
-- Google Sheets
+BI: Power BI (DAX, Power Query)
+
+Data Engineering: ETL pipelines, API ingestion, data validation, layered SQL modeling (staging → analytical → BI-ready)
+
+Domains: Finance, iGaming/Betting, Web3/On-chain
+
+---
+
+## This repository contains examples of my work in:
 
 ---
 
@@ -82,6 +83,19 @@ Pipeline: Dune Analytics (SQL) → PostgreSQL (staging table + SQL views) → Po
 📄 [Download PROJECT №2 "Ethereum Staking Behavior Build Process" as PDF](docs/Ethereum_Staking_Behavior_Analysis_Build_Process.pdf)
 
 📄 [Download PROJECT №2 "Dashboard Ethereum Staking Behavior Analysis"as PDF](docs/Ethereum_Staking_Behavior_Analysis.pdf)
+
+## 3.Financial BI Analysis — Apple, Microsoft & Amazon
+
+Real public financial data (SEC EDGAR / XBRL) → Python → PostgreSQL → layered SQL analytical views → Power BI.
+
+A 2-page interactive dashboard (Financial Overview + Company Deep Dive) comparing revenue, profitability, margins, cash flow and balance sheet trends 
+across three public companies — built around a deliberate staging → wide → KPI → BI-ready SQL layering, not a single flat query.
+
+Stack: SEC EDGAR API · Python · PostgreSQL · SQL · Power BI
+
+[View Project → ]()
+
+---
 
 (My other projects will appear here soon.)
 
