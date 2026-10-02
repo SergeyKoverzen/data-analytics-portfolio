@@ -112,6 +112,12 @@ It demonstrates how raw external data can be transformed into a structured analy
 
 **SQL | Dune | On-chain Data | KPI Analysis**
 
+📄 [Download PROJECT №1 "DEX Analytics Build Process" as PDF](docs/DEX_Analytics_Build_Process_01092026.pdf)
+
+📄 [Download PROJECT №1 "Dashboard of Trader Behavior"as PDF](docs/Top_Trades.pdf)
+
+**Pipeline: Dune Analytics (SQL) → PostgreSQL (staging table + SQL views) → Power BI (3-page dashboard)**
+
 A blockchain analytics project focused on decentralized exchange activity and user behaviour.
 
 The analysis explores:
@@ -136,6 +142,12 @@ The project demonstrates the ability to work with large, event-oriented datasets
 ### stETH / Ethereum
 
 **SQL | Blockchain Analytics | Financial KPIs**
+
+📄 [Download PROJECT №2 "Ethereum Staking Behavior Build Process" as PDF](docs/Ethereum_Staking_Behavior_Analysis_Build_Process.pdf)
+
+📄 [Download PROJECT №2 "Dashboard Ethereum Staking Behavior Analysis"as PDF](docs/Ethereum_Staking_Behavior_Analysis.pdf)
+
+**Pipeline: Dune Analytics (SQL) → PostgreSQL (staging table + SQL views) → Power BI (5-page dashboard)**
 
 An analytical project focused on Ethereum staking activity and liquid staking data.
 
