@@ -139,7 +139,7 @@ The project demonstrates the ability to work with large, event-oriented datasets
 
 # 03 — Ethereum Staking Analytics
 
-### stETH / Ethereum
+### St_ETH / Ethereum
 
 **SQL | Blockchain Analytics | Financial KPIs**
 
@@ -173,6 +173,21 @@ The project demonstrates analytical thinking in a financial technology and block
 ### Product & Financial Analytics
 
 **SQL | Power BI | Python | KPI Analysis**
+
+
+### The process in short
+
+Each step has its own page with a detailed diagram and notes — see the **Details** column.
+
+| Step | What happens | Output | Details |
+|---|---|---|---|
+| **1. Goals & metrics** | Align with product/marketing on the question being answered; lock the KPI set, segments and comparison period | Defined KPI list, W/W period | [Open →](docs/01-goals-and-metrics.md) |
+| **2. Data collection** | SQL extracts from the DWH (players, sessions, bets, deposits/withdrawals, bonuses) + marketing data from GA/GTM and affiliate reports | Raw datasets | [Open →](docs/02-data-collection.md) |
+| **3. Cleaning & validation** | Deduplication, test-account exclusion, outlier handling, reconciliation against the finance report | Trusted dataset | [Open →](docs/03-cleaning-and-validation.md) |
+| **4. Analysis** | Cohorts by registration date, player segmentation, funnel breakdown, week-over-week comparison, root-cause of deviations | Findings | [Open →](docs/04-analysis.md) |
+| **5. Visualisation** | Build/refresh the Power BI dashboard: DAX measures, geo & channel slicers, drill-down to segment | Dashboard | [Open →](docs/05-visualisation.md) |
+| **6. Conclusions** | What went up, what went down, why, and what to do next | Summary + 3–5 recommendations | [Open →](docs/06-conclusions.md) |
+
 
 An analytical workflow focused on product and financial performance in an iGaming environment.
 
