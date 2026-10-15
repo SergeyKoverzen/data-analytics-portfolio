@@ -211,6 +211,48 @@ The project demonstrates the ability to translate business questions into measur
 
 ---
 
+### 05 — DeFi Analytics Data Platform (Medallion Architecture)
+**Web3 / DeFi Analytics Engineering**  
+
+`Python` | `Google BigQuery` | `dbt` | `SQL` | `Looker Studio` | `Medallion Architecture`
+
+**Repository:** [DeFi Analytics Data Platform](https://github.com/SergeyKoverzen/defi-analytics-dbt-bigquery)  
+**Live BI Report:** 
+
+An end-to-end Analytics Engineering pipeline that ingests raw DeFi market protocol data, cleans and transforms it through a **Medallion Architecture (Bronze → Silver → Gold)**, and serves business-ready data marts to Looker Studio.
+
+#### Pipeline Architecture
+
+```
+[ External DeFi API ]
+         │
+         ▼ (Initial Prototyping & Staging on Databricks / Power BI Ready)
+[ Databricks / PySpark Environment ]
+         │
+         ▼ (Python Ingestion Script to Production DWH)
+[ BigQuery: Bronze Layer ]  ──>  `bronze_protocols_raw` (Raw JSON Payload)
+         │
+         ▼ (dbt Models: JSON Parsing & Deduplication)
+[ BigQuery: Silver Layer ]  ──>  `stg_protocols` (Cleaned & Structured SQL Views)
+         │
+         ▼ (dbt Models: Aggregations & Data Marts)
+[ BigQuery: Gold Layer ]    ──>  `mart_protocols_summary` (Materialized Data Mart)
+         │
+         ▼ (BI Integration)
+[ Looker Studio / Power BI ] ──> Interactive Executive Dashboards ($570B+ TVL Analyzed)
+```
+
+#### Technical Focus & Analytics Engineering Features
+- **Medallion Architecture:** Multi-layer ELT pipeline designed for scalable data processing.
+- **Data Ingestion & Extraction:** Automated Python script fetching raw protocol data into BigQuery Bronze layer.
+- **JSON Parsing & Cleaning:** Extracted nested JSON attributes (`JSON_VALUE`) in dbt Silver layer.
+- **Data Quality & Deduplication:** Applied SQL Window Functions (`ROW_NUMBER() OVER (PARTITION BY ... ORDER BY ...)`) to remove redundant API snapshots.
+- **Analytical Data Marts:** dbt Gold models aggregating Total Value Locked (TVL), protocol counts, and chain/category distributions.
+- **BI Layer:** Interactive Looker Studio dashboard featuring market concentration and sector breakdowns ($570B+ TVL analyzed).
+
+#### Key Technologies:
+`Python` `Google BigQuery` `dbt` `SQL` `Looker Studio` `Medallion Architecture` `Data Modelling`
+
 # Technical Skills
 
 ## Data Analytics
@@ -226,7 +268,7 @@ The project demonstrates the ability to translate business questions into measur
 
 ## BI & Visualization
 
-- Power BI
+- Power BI / Looker
 - DAX
 - Data modelling
 - KPI dashboards
