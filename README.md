@@ -211,7 +211,7 @@ The project demonstrates the ability to translate business questions into measur
 
 ---
 
-### 05 — DeFi Analytics Data Platform (Medallion Architecture)
+# 05 — DeFi Analytics Data Platform (Medallion Architecture)
 **Web3 / DeFi Analytics Engineering**  
 
 `Python` | `Google BigQuery` | `dbt` | `SQL` | `Looker Studio` | `Medallion Architecture`
