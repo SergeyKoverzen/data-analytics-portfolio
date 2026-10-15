@@ -48,13 +48,14 @@ BI / Reporting
 
 # Featured Projects
 
-## 01 — Financial BI Analysis
+# 01 — Financial BI Analysis
 
 ### Apple · Microsoft · Amazon
 
 **Real SEC data | Python | PostgreSQL | SQL | Power BI**
 
 **Repository:**  
+
 [Financial BI Analysis](https://github.com/SergeyKoverzen/financial-bi-analysis)
 
 An end-to-end financial analytics pipeline built using real SEC EDGAR Company Facts data.
@@ -212,9 +213,10 @@ The project demonstrates the ability to translate business questions into measur
 ---
 
 # 05 — DeFi Analytics Data Platform (Medallion Architecture)
-**Web3 / DeFi Analytics Engineering**  
 
-`Python` | `Google BigQuery` | `dbt` | `SQL` | `Looker Studio` | `Medallion Architecture`
+### Web3 / DeFi Analytics Engineering  
+
+**`Python` | `Google BigQuery` | `dbt` | `SQL` | `Looker Studio` | `Medallion Architecture`**
 
 **Repository:** [DeFi Analytics Data Platform](https://github.com/SergeyKoverzen/defi-analytics-dbt-bigquery)  
 
