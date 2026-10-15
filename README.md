@@ -52,7 +52,7 @@ BI / Reporting
 
 ### Apple · Microsoft · Amazon
 
-**Real SEC data | Python | PostgreSQL | SQL | Power BI**
+**`Real SEC data` | `Python` | `PostgreSQL` | `SQL` | `Power BI`**
 
 **Repository:**  
 
@@ -111,7 +111,7 @@ It demonstrates how raw external data can be transformed into a structured analy
 
 ### Web3 / DeFi Analytics
 
-**SQL | Dune | On-chain Data | KPI Analysis**
+**`SQL` | `Dune` | `On-chain Data` | `KPI Analysis`**
 
 📄 [Download PROJECT №1 "DEX Analytics Build Process" as PDF](docs/DEX_Analytics_Build_Process_01092026.pdf)
 
@@ -142,7 +142,7 @@ The project demonstrates the ability to work with large, event-oriented datasets
 
 ### St_ETH / Ethereum
 
-**SQL | Blockchain Analytics | Financial KPIs**
+**`SQL` | `Blockchain Analytics` | `Financial KPIs`**
 
 📄 [Download PROJECT №2 "Ethereum Staking Behavior Build Process" as PDF](docs/Ethereum_Staking_Behavior_Analysis_Build_Process.pdf)
 
@@ -173,7 +173,7 @@ The project demonstrates analytical thinking in a financial technology and block
 
 ### Product & Financial Analytics
 
-**SQL | Power BI | Python | KPI Analysis**
+**`SQL` | `Power BI` | `Python` | `KPI Analysis`**
 
 
 ### The process in short
