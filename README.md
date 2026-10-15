@@ -217,7 +217,8 @@ The project demonstrates the ability to translate business questions into measur
 `Python` | `Google BigQuery` | `dbt` | `SQL` | `Looker Studio` | `Medallion Architecture`
 
 **Repository:** [DeFi Analytics Data Platform](https://github.com/SergeyKoverzen/defi-analytics-dbt-bigquery)  
-**Live BI Report:** 
+
+![Dashboard Preview](docs/TVL_Dashboard.pdf)   -AND-   **Live Interactive Dashboard:** [📊 Looker Studio Report](https://datastudio.google.com/s/s_BfMsyFwoo)
 
 An end-to-end Analytics Engineering pipeline that ingests raw DeFi market protocol data, cleans and transforms it through a **Medallion Architecture (Bronze → Silver → Gold)**, and serves business-ready data marts to Looker Studio.
 
@@ -253,57 +254,62 @@ An end-to-end Analytics Engineering pipeline that ingests raw DeFi market protoc
 #### Key Technologies:
 `Python` `Google BigQuery` `dbt` `SQL` `Looker Studio` `Medallion Architecture` `Data Modelling`
 
+
 # Technical Skills
 
-## Data Analytics
+## Analytics Engineering
 
-- SQL
-- Advanced SQL
-- KPI analysis
-- Business analysis
-- Cohort analysis
-- Time-series analysis
-- Financial analysis
-- Product analytics
+dbt (data build tool) — data transformation, staging, materialization models
+
+Medallion Architecture (Bronze, Silver, Gold layers)
+
+Data Quality & Deduplication (SQL Window Functions)
+
+ELT / ETL pipeline design
+
+Cloud Data Warehousing (Google BigQuery)
+
+Unified Data Analytics Platforms (Databricks, PySpark)
+
+## Data Analytics & Querying
+
+SQL & Advanced SQL (CTEs, Window Functions, JSON parsing, aggregation logic)
+
+KPI analysis & Business metrics definition
+
+Cohort analysis & Time-series analysis
+
+Financial & Product analytics
 
 ## BI & Visualization
 
-- Power BI / Looker
-- DAX
-- Data modelling
-- KPI dashboards
-- Interactive reporting
-- Business storytelling
+Power BI & DAX
 
-## Data & Programming
+Google Looker Studio
 
-- Python
-- Pandas
-- REST APIs
-- JSON
-- Data cleaning
-- Data transformation
-- ETL concepts
+Dimensional Data Modelling (Star Schema, Data Marts)
 
-## Databases
+Interactive Dashboards & Business Storytelling
 
-- PostgreSQL
-- SQL-based analytical modelling
-- Staging layers
-- Analytical views
-- Window functions
-- CTEs
+## Data & Scripting
 
-## Analytics Engineering — developing
+Python (Pandas, Requests, Cloud Client Libraries)
 
-- Data modelling
-- ELT / ETL architecture
-- Layered SQL transformations
-- Data quality checks
-- Reproducible pipelines
-- Git / GitHub
-- dbt — developing
-- Workflow orchestration — developing
+REST APIs & Unstructured JSON Parsing
+
+Data Ingestion & Cleaning
+
+Git / GitHub Version Control
+
+## Cloud & Databases
+
+Google BigQuery
+
+Databricks (PySpark / Spark SQL)
+
+PostgreSQL
+
+Staging layers & Analytical Views
 
 ---
 
@@ -316,19 +322,17 @@ The technical progression I am following is:
 ```text
 SQL
  │
- ├── PostgreSQL
+ ├── PostgreSQL & Cloud DWH (BigQuery)
  │
- ├── Data Modelling
+ ├── Data Modelling (Dimensional & Medallion)
  │
- ├── Python / APIs
+ ├── Python / APIs / Databricks
  │
- ├── ETL / ELT
+ ├── ETL / ELT Concepts
  │
- ├── dbt
+ ├── dbt (Data Transformation)
  │
  ├── Workflow Orchestration
- │
- ├── Cloud Data Warehouses
  │
  └── Data Engineering
 ```
@@ -355,9 +359,9 @@ On-chain data, DeFi protocols, DEX activity and staking.
 
 ### Business Intelligence
 
-Power BI dashboards, KPI models and management reporting.
+Power BI & Looker Studio dashboards, BigQuery + dbt data modeling, Databricks processing, and management reporting.
 
-This combination allows me to approach data from both the **business side and the technical side**.
+This combination allows me to approach data from both the business side and the technical side. **
 
 ---
 
@@ -366,7 +370,7 @@ This combination allows me to approach data from both the **business side and th
 The projects in this portfolio demonstrate different stages of the analytical workflow:
 
 ```text
-                 DATA ANALYTICS
+               DATA ANALYTICS
                        │
           ┌────────────┼────────────┐
           │            │            │
@@ -376,9 +380,11 @@ The projects in this portfolio demonstrate different stages of the analytical wo
                        │
                   SQL / Python
                        │
-                Data Modelling
+        Databricks / Google BigQuery
                        │
-              Analytics Engineering
+           dbt (Analytics Engineering)
+                       │
+             Power BI / Looker Studio
 ```
 
 The Financial BI Analysis project represents the current step toward a more engineering-oriented workflow.
@@ -404,17 +410,17 @@ The Financial BI Analysis project represents the current step toward a more engi
 
 I am currently focusing on:
 
-- advanced SQL
-- PostgreSQL
-- data modelling
-- Python data pipelines
-- API ingestion
-- dbt
-- ELT architecture
-- workflow automation
-- cloud data platforms
-- Analytics Engineering
-- Data Engineering
+- Advanced SQL & Cloud Data Warehousing (BigQuery)
+
+- Databricks & PySpark processing
+
+- dbt data modeling & materialization
+
+- Python data ingestion pipelines
+
+- ELT Architecture & Medallion patterns
+
+- Analytics Engineering best practices
 
 ---
 
